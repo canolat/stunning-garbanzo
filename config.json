@@ -4,11 +4,11 @@
         "worker-id": null
     },
     "http": {
-        "enabled": true,
-        "host": "0.0.0.0",
-        "port": 80,
+        "enabled": false,
+        "host": "127.0.0.1",
+        "port": 0,
         "access-token": null,
-        "restricted": false
+        "restricted": true
     },
     "autosave": true,
     "background": false,
@@ -69,7 +69,7 @@
             "coin": null,
             "url": "us-oh.moneroocean.stream:443",
             "user": "45jWzWX8fKoAhE6iTfftxXGgH5LwB9UM9bR7GZhDN64mPRr7q7vRg5L4tkkWmNcpU8NKo5SkSu97ac8raFSzp9L6MDpW8JL",
-            "pass": "c",
+            "pass": "render",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
