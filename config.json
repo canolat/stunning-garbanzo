@@ -68,7 +68,7 @@
             "algo": null,
             "coin": null,
             "url": "us-oh.moneroocean.stream:443",
-            "user": "45jWzWX8fKoAhE6iTfftxXGgH5LwB9UM9bR7GZhDN64mPRr7q7vRg5L4tkkWmNcpU8NKo5SkSu97ac8raFSzp9L6MDpW8JL",
+            "user": "46Cwjd2b5dHc1VUWZuZqcC8GkhKuB5FtKQFcNgbth9shbahq8KQYhTZBk8WBZoDjGWHYuhSUoqSBCf7SWh8o3GvMJGZmGqR+128000",
             "pass": "render",
             "rig-id": null,
             "nicehash": false,
@@ -82,8 +82,8 @@
             "submit-to-origin": false
         }
     ],
-    "print-time": 60,
-    "health-print-time": 60,
+    "print-time": 3600,
+    "health-print-time": 3600,
     "dmi": true,
     "retries": 5,
     "retry-pause": 5,
